@@ -54,7 +54,7 @@
   
   <distributionManagement>
     <snapshotRepository>
-       <id>nexus3</id>
+       <id>nexus</id>
       <!-- <url>http://35.200.240.176:8081/nexus/content/repositories/snapshots</url> -->
            <url>http://35.200.240.176:8081/repository/maven-snapshots</url>
     </snapshotRepository>
